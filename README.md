@@ -1,4 +1,7 @@
 # FunnyToys
+an excellent code that provide an awesome heart as in the chinese TV drama "Lighter & Princess" 
+thanks to the author ! 
+
 放一些有趣的code
 
 ## 李峋同款爱心代码（附蝴蝶代码）
